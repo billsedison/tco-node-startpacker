@@ -1,0 +1,12 @@
+# node modules
+node_modules/
+
+# IDE files
+.vscode/
+.idea
+
+*.DS_Store
+
+# local env set
+set_env.sh
+
